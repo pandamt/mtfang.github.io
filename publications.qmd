@@ -1,0 +1,37 @@
+---
+title: "Publications"
+---
+
+$\dagger$ Equal contribution.
+
+## Research Articles
+
+**Fang, M.** $\dagger$, Mao, J.$\dagger$, Donner, T. H., & Stocker, A. A. (2026). The resource-rational dynamics of evidence accumulation. *In submission.* [PDF](files/papers/PET_2024_01-12.pdf)
+
+Fajardo, G. $\dagger$, **Fang, M.** $\dagger$, & Anzellotti, S. (2025). [Distinct portions of superior temporal sulcus combine auditory representations with different visual streams](https://www.jneurosci.org/content/45/45/e1188242025). *Journal of Neuroscience.*
+
+**Fang, M.,** Aglinskas, A., Li, Y., & Anzellotti, S. (2023). [Angular gyrus responses show joint statistical dependence with brain regions selective for different categories](https://www.jneurosci.org/content/jneuro/43/15/2756.full.pdf). *Journal of Neuroscience.*
+
+**Fang, M.,** Poskanzer, C., & Anzellotti, S. (2023). [Multivariate connectivity: A brief introduction and an open question](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1082120/full). *Frontiers in Neuroscience.*
+
+Poskanzer, C., **Fang, M.,** Aglinskas, A., & Anzellotti, S. (2022). [Controlling for spurious nonlinear dependence in connectivity analyses](https://link.springer.com/article/10.1007/s12021-021-09540-9). *Neuroinformatics.*
+
+**Fang, M.,** Poskanzer, C., & Anzellotti, S. (2022). [PyMVPD: A toolbox for multivariate pattern dependence](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2022.835772/full). *Frontiers in Neuroinformatics.*
+
+Sun, Y., **Fang, M.,** & Wang, X. (2018). [A novel stock recommendation system using Guba sentiment analysis](https://link.springer.com/article/10.1007/s00779-018-1121-x). *Personal and Ubiquitous Computing.*
+
+## Conference Posters
+
+**Fang, M.,** & Stocker, A. A. (2025). [Categorical Representations in Sequential Evidence Accumulation](https://jov.arvojournals.org/article.aspx?articleid=2809410). *Annual Meeting of the Vision Sciences Society 2025.*
+
+**Fang, M.,** Mao, J., Donner, T. H., & Stocker, A. A. (2024). [Sequential evidence accumulation is a resource-rational process](https://jov.arvojournals.org/article.aspx?articleid=2802068). *Annual Meeting of the Vision Sciences Society 2024.*
+
+**Fang, M.,** Mao, J., Donner, T. H., & Stocker, A. A. (2023). [Effect of temporal interruptions on sequential sensory integration](https://jov.arvojournals.org/article.aspx?articleid=2792710). *Annual Meeting of the Vision Sciences Society 2023.*
+
+## Conference Papers
+
+**Fang, M.,** Zhou, Z., Chen, S. Y., & McClelland, J. L. (2018). [Can a recurrent neural network learn to count things?](https://escholarship.org/content/qt33h3496v/qt33h3496v.pdf). *Annual Meeting of the Cognitive Science Society 2018.*
+
+Chen, S. Y., Zhou, Z., **Fang, M.,** & McClelland, J. L. (2018). [Can generic neural networks estimate numerosity like humans?](https://escholarship.org/content/qt1fm93016/qt1fm93016_noSplash_258339fac942b270fab73d5b87aa5916.pdf). *Annual Meeting of the Cognitive Science Society 2018.*
+
+Sun, Y., **Fang, M.,** Wang, X., & Diao, S. (2017). [GubaLex: Guba-oriented sentiment lexicon for big texts in finance](https://ieeexplore.ieee.org/document/8265103). *13th International Conference on Semantics, Knowledge and Grids. IEEE.*

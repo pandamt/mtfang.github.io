@@ -1,0 +1,30 @@
+---
+title: "Mengting Fang"
+image: images/profile/profile.png
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      #text: Email
+      href: mailto:mtfang@sas.upenn.edu
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=RBsnJ9UAAAAJ&hl=en
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Mengting-Fang-3?ev=hdr_xprf
+    - icon: twitter-x
+      href: https://x.com/Mengting_Fang
+    - text: "🦋"
+      href: https://bsky.app/profile/mtfang.bsky.social
+---
+
+Hey! Welcome to my website!
+
+My name is Mengting Fang. I'm a PhD candidate in Psychology at the University of Pennsylvania, studying vision and decision-making in the [Computational Perception & Cognition Laboratory](https://www.sas.upenn.edu/~astocker/lab/) under [Dr. Alan Stocker](https://psychology.sas.upenn.edu/people/alan-stocker).
+
+My research asks **how the brain integrates noisy sensory information to make decisions**, aiming to uncover the underlying computational principles through **a normative lens**.
+My work bridges behavior and cortical dynamics using theoretical frameworks from cognitive neuroscience and biophysically informed computational models, supported by Bayesian modeling, information theory, and neural data analysis.
+
+Before Penn, I worked with [Dr. Jay McClelland](https://web.stanford.edu/~jlmcc/) at Stanford University to study children's number learning and with [Dr. Stefano Anzellotti](https://www.bc.edu/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/stefano-anzellotti.html) at Boston College on multivariate brain connectivity and action prediction.
+
+I received my B.S. in Mathematics and Applied Mathematics from Beijing Normal University. 
+I grew up in [Wuxi](https://en.wikipedia.org/wiki/Wuxi), a beautiful city known for its [Lake Tai](https://www.bilibili.com/video/BV1Em4y1X78Z/?share_source=copy_web&vd_source=3cfd9674d23bf88ae3c839a8f1bac95f), [cherry blossoms](https://www.bilibili.com/video/BV1p24y1G7Qi/?share_source=copy_web&vd_source=3cfd9674d23bf88ae3c839a8f1bac95f), and arguably the [sweetest cuisine](https://youtu.be/FvKx_nO5EnY?si=tVs1A9r8rUkTPFHS) in China 🍬

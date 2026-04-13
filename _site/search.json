@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mengting Fang",
+    "section": "",
+    "text": "Hey! Welcome to my website!\nMy name is Mengting Fang. I’m a PhD candidate in Psychology at the University of Pennsylvania, studying vision and decision-making in the Computational Perception & Cognition Laboratory under Dr. Alan Stocker.\nMy research asks how the brain integrates noisy sensory information to make decisions, aiming to uncover the underlying computational principles through a normative lens. My work bridges behavior and cortical dynamics using theoretical frameworks from cognitive neuroscience and biophysically informed computational models, supported by Bayesian modeling, information theory, and neural data analysis.\nBefore Penn, I worked with Dr. Jay McClelland at Stanford University to study children’s number learning and with Dr. Stefano Anzellotti at Boston College on multivariate brain connectivity and action prediction.\nI received my B.S. in Mathematics and Applied Mathematics from Beijing Normal University. I grew up in Wuxi, a beautiful city known for its Lake Tai, cherry blossoms, and arguably the sweetest cuisine in China 🍬"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "\\(\\dagger\\) Equal contribution."
+  },
+  {
+    "objectID": "publications.html#research-articles",
+    "href": "publications.html#research-articles",
+    "title": "Publications",
+    "section": "Research Articles",
+    "text": "Research Articles\nFang, M. \\(\\dagger\\), Mao, J.\\(\\dagger\\), Donner, T. H., & Stocker, A. A. (2026). The resource-rational dynamics of evidence accumulation. In submission. PDF\nFajardo, G. \\(\\dagger\\), Fang, M. \\(\\dagger\\), & Anzellotti, S. (2025). Distinct portions of superior temporal sulcus combine auditory representations with different visual streams. Journal of Neuroscience.\nFang, M., Aglinskas, A., Li, Y., & Anzellotti, S. (2023). Angular gyrus responses show joint statistical dependence with brain regions selective for different categories. Journal of Neuroscience.\nFang, M., Poskanzer, C., & Anzellotti, S. (2023). Multivariate connectivity: A brief introduction and an open question. Frontiers in Neuroscience.\nPoskanzer, C., Fang, M., Aglinskas, A., & Anzellotti, S. (2022). Controlling for spurious nonlinear dependence in connectivity analyses. Neuroinformatics.\nFang, M., Poskanzer, C., & Anzellotti, S. (2022). PyMVPD: A toolbox for multivariate pattern dependence. Frontiers in Neuroinformatics.\nSun, Y., Fang, M., & Wang, X. (2018). A novel stock recommendation system using Guba sentiment analysis. Personal and Ubiquitous Computing."
+  },
+  {
+    "objectID": "publications.html#conference-posters",
+    "href": "publications.html#conference-posters",
+    "title": "Publications",
+    "section": "Conference Posters",
+    "text": "Conference Posters\nFang, M., & Stocker, A. A. (2025). Categorical Representations in Sequential Evidence Accumulation. Annual Meeting of the Vision Sciences Society 2025.\nFang, M., Mao, J., Donner, T. H., & Stocker, A. A. (2024). Sequential evidence accumulation is a resource-rational process. Annual Meeting of the Vision Sciences Society 2024.\nFang, M., Mao, J., Donner, T. H., & Stocker, A. A. (2023). Effect of temporal interruptions on sequential sensory integration. Annual Meeting of the Vision Sciences Society 2023."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nFang, M., Zhou, Z., Chen, S. Y., & McClelland, J. L. (2018). Can a recurrent neural network learn to count things?. Annual Meeting of the Cognitive Science Society 2018.\nChen, S. Y., Zhou, Z., Fang, M., & McClelland, J. L. (2018). Can generic neural networks estimate numerosity like humans?. Annual Meeting of the Cognitive Science Society 2018.\nSun, Y., Fang, M., Wang, X., & Diao, S. (2017). GubaLex: Guba-oriented sentiment lexicon for big texts in finance. 13th International Conference on Semantics, Knowledge and Grids. IEEE."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Penn Grad Talk — Finalist (2026) University of Pennsylvania\n\nPenn Three Minute Thesis (3MT) — Audience Choice Winner (2026) University of Pennsylvania"
+  },
+  {
+    "objectID": "talks.html#invited-talks-presentations",
+    "href": "talks.html#invited-talks-presentations",
+    "title": "Talks",
+    "section": "",
+    "text": "Penn Grad Talk — Finalist (2026) University of Pennsylvania\n\nPenn Three Minute Thesis (3MT) — Audience Choice Winner (2026) University of Pennsylvania"
+  },
+  {
+    "objectID": "cat.html",
+    "href": "cat.html",
+    "title": "Baobao Fang",
+    "section": "",
+    "text": "Security Guard at the Meowtropolitan Museum of Art in New York City\nI collect tennis balls, sticks, peacock feathers, and anything Mengting brings to me.\nI am also a freelance scientist and am composing a grand research plan.\nFunding pending. Peer review ongoing (self-reviewed, very positive).\nFor collaboration, contact my assistant, Mengting 🐾"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "🚧 Under construction — check back soon! 🚧"
+  },
+  {
+    "objectID": "dog.html",
+    "href": "dog.html",
+    "title": "Shenshen & Ben Fang",
+    "section": "",
+    "text": "🚧 Under construction — check back soon! 🚧"
+  }
+]

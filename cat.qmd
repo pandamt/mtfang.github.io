@@ -1,0 +1,23 @@
+---
+title: "Baobao Fang"
+image: images/Baobao/Baobao_profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mtfang@sas.upenn.edu
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/stories/highlights/18070496642548120/
+---
+
+**Security Guard** at **the Meowtropolitan Museum of Art** in New York City 
+
+I collect tennis balls, sticks, peacock feathers, and anything Mengting brings to me.
+
+I am also a **freelance scientist** and am composing a grand research plan. 
+
+Funding pending. Peer review ongoing (self-reviewed, very positive).
+
+For collaboration, contact my assistant, Mengting 🐾

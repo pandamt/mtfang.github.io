@@ -1,0 +1,19 @@
+/* css styles */
+/* Center content and limit width */
+.about-contents,
+.about-entity .about-contents,
+.about-entity {
+max-width: 100% !important;
+margin: 0 auto !important;
+}
+
+/* Bigger photo */
+.about-image img {
+width: 170px !important;
+height: 170px !important;
+}
+
+/* Bigger body text */
+body {
+font-size: 1.045rem;
+}

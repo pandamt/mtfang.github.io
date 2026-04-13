@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mengting Fang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - text: "More 🐾"
+        menu:
+          - href: cat.qmd
+            text: "Baobao 🐱"
+          - href: dog.qmd
+            text: "Shen & Ben 🐶"
+          #- href: travel.qmd
+          #  text: "Travel ✈️"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+
