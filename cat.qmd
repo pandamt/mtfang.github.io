@@ -1,6 +1,6 @@
 ---
 title: "Baobao Fang"
-image: images/Baobao/Baobao_profile.jpg
+image: images/baobao/Baobao_profile.jpg
 body-classes: fun-page
 about:
   template: jolla

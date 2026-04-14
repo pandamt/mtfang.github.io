@@ -48,6 +48,10 @@
     background-color: #6ab040 !important;
   }
 
+  body.quarto-dark #TOC {
+    background-color: transparent !important;
+  }
+
   .nav-footer p,
   .nav-footer-center,
   .nav-footer span {
