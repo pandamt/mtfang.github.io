@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Mengting Fang"
-  favicon: images/baobao/Baobao_icon.png
+  favicon: images/Baobao/Baobao_icon.png
   search: true
   page-footer:
     center: "© Mengting Fang <span id='year'></span>"
