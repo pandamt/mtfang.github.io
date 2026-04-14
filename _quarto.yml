@@ -4,9 +4,10 @@ project:
 
 website:
   title: "Mengting Fang"
-  page-footer:
-    center: "© Mengting Fang 2026"
   favicon: images/baobao/Baobao_icon.png
+  search: true
+  page-footer:
+    center: "© Mengting Fang <span id='year'></span>"
   navbar:
     left:
       - href: index.qmd
@@ -25,15 +26,23 @@ website:
             text: "Baobao 🐱"
           - href: dog.qmd
             text: "Shen & Ben 🐶"
-          #- href: travel.qmd
-          #  text: "Travel ✈️"
+          # - href: travel.qmd
+          #   text: "Travel ✈️"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
-
+          <script>document.addEventListener('DOMContentLoaded', function() { document.getElementById('year').textContent = new Date().getFullYear(); });</script>
+    include-after-body:
+      - text: |
+          <button onclick="window.scrollTo({top:0, behavior:'smooth'})" 
+            style="position:fixed; bottom:2rem; right:1.5rem; background:#6ab040; color:white; border:none; border-radius:50%; width:40px; height:40px; font-size:1.2rem; cursor:pointer; z-index:999;">
+            ↑
+          </button>

@@ -1,19 +1,63 @@
 /* css styles */
-/* Center content and limit width */
-.about-contents,
-.about-entity .about-contents,
-.about-entity {
-max-width: 100% !important;
-margin: 0 auto !important;
-}
-
 /* Bigger photo */
 .about-image img {
-width: 170px !important;
-height: 170px !important;
-}
+    width: 170px !important;
+    height: 170px !important;
+  }
+  
+  /* Bigger body text */
+  body {
+    font-size: 1.045rem;
+  }
+  
+  /* Force left align jolla text */
+  .about-entity {
+    max-width: 680px !important;
+    margin: 0 auto !important;
+  }
+  
+  .about-contents {
+    text-align: left !important;
+  }
+  
+  .about-entity .about-contents {
+    text-align: left !important;
+  }
+  
+  .about-entity .about-contents * {
+    text-align: left !important;
+  }
+  
+  div.about-contents {
+    text-align: left !important;
+  }
+  
+  body:not(.fun-page) p {
+    text-align: left !important;
+  }
 
-/* Bigger body text */
-body {
-font-size: 1.045rem;
-}
+  body:not(.fun-page) .nav-footer p {
+    text-align: center !important;
+  }
+  
+  body.quarto-dark nav {
+    background-color: #6ab040 !important;
+  }
+
+  .nav-footer p,
+  .nav-footer-center,
+  .nav-footer span {
+    text-align: center !important;
+  }
+  .nav-footer {
+    justify-content: center !important;
+  }
+  
+  .nav-footer-center {
+    text-align: center !important;
+  }
+
+  .quarto-color-scheme-toggle {
+    font-size: 1.3rem !important;
+  }
+  

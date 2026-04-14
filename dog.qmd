@@ -1,6 +1,7 @@
 ---
 title: "Shenshen & Ben Fang "
 image: images/dogs/Sammy1.jpeg
+body-classes: fun-page
 about:
   template: jolla
 ---

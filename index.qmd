@@ -17,7 +17,7 @@ about:
       href: https://bsky.app/profile/mtfang.bsky.social
 ---
 
-Hey! Welcome to my website!
+<p style="text-align: center !important;">Hey! Welcome to my website!</p>
 
 My name is Mengting Fang. I'm a PhD candidate in Psychology at the University of Pennsylvania, studying vision and decision-making in the [Computational Perception & Cognition Laboratory](https://www.sas.upenn.edu/~astocker/lab/) under [Dr. Alan Stocker](https://psychology.sas.upenn.edu/people/alan-stocker).
 

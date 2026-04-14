@@ -1,6 +1,7 @@
 ---
 title: "Baobao Fang"
 image: images/Baobao/Baobao_profile.jpg
+body-classes: fun-page
 about:
   template: jolla
   links:
@@ -12,12 +13,52 @@ about:
       href: https://www.instagram.com/stories/highlights/18070496642548120/
 ---
 
-**Security Guard** at **the Meowtropolitan Museum of Art** in New York City 
+<p style="text-align: center !important;">
+<b>Security Guard</b> at <b>the Meowtropolitan Museum of Art</b> in New York City.<br>
 
-I collect tennis balls, sticks, peacock feathers, and anything Mengting brings to me.
+I collect tennis balls, sticks, peacock feathers, and anything Mengting brings to me.<br>
 
-I am also a **freelance scientist** and am composing a grand research plan. 
+I am also a <b>freelance scientist</b> and am composing a grand research plan.<br>
 
-Funding pending. Peer review ongoing (self-reviewed, very positive).
+Funding pending. Peer review ongoing (self-reviewed, very positive).<br>
 
 For collaboration, contact my purrsonal assistant, Mengting 🐾
+</p>
+
+<br>
+
+<div style="text-align: center;">
+  <button onclick="toggleAlbum()" id="toggle-btn"
+          style="background: #6ab040; color: white; border: none; border-radius: 20px; padding: 10px 24px; font-size: 1rem; cursor: pointer;">
+    🐾 Psst... click me if you dare 🐾
+  </button>
+</div>
+
+<div id="secret-album" style="display: none; text-align: center; margin-top: 20px; opacity: 0; transition: opacity 0.8s ease;">
+  <p><em>You found Baobao's secret archive. Tell no one.</em> 🤫</p>
+  ![](images/Baobao/Baobao_secret1.jpg){width=45%}
+  ![](images/Baobao/Baobao_secret2.jpg){width=45%}
+</div>
+
+<script>
+function toggleAlbum() {
+  const album = document.getElementById('secret-album');
+  const btn = document.getElementById('toggle-btn');
+  if (album.style.display === 'none') {
+    album.style.display = 'block';
+    setTimeout(() => album.style.opacity = '1', 10);
+    btn.textContent = 'Shhhh... Baobao is watching 👀';
+    setTimeout(() => {
+      album.style.opacity = '0';
+      setTimeout(() => {
+        album.style.display = 'none';
+        btn.textContent = '🐾 Psst... click me if you dare 🐾';
+      }, 800);
+    }, 3000);
+  } else {
+    album.style.opacity = '0';
+    setTimeout(() => album.style.display = 'none', 800);
+    btn.textContent = '🐾 Psst... click me if you dare 🐾';
+  }
+}
+</script>
