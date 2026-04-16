@@ -10,7 +10,7 @@ I study how the brain integrates noisy sensory information to make decisions, us
 
 <div style="margin-bottom:2rem;">
 **The resource-rational dynamics of evidence accumulation**
-<br>Sequential integration of noisy sensory signals dynamically controlled by optimal resource allocation.
+<br>Sequential integration of noisy sensory evidence is dynamically controlled by optimal resource allocation.
 <div style="margin-top:6px;">
 <span onclick="var p=this.parentElement.querySelector('.abstract-text'); p.style.display=p.style.display==='none'?'block':'none'" style="background:#e8a838; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; cursor:pointer; margin-right:4px;">Abstract</span>
 <a href="https://your-paper-link" style="background:#6ab040; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none; margin-right:4px;">Paper</a>
@@ -21,7 +21,7 @@ I study how the brain integrates noisy sensory information to make decisions, us
 
 <div style="margin-bottom:2rem;">
 **Categorical representations in evidence accumulation**
-<br>How categorical structure shapes sequential perceptual decisions.
+<br>How categorical structure shapes sequential evidence accumulation.
 <div style="margin-top:6px;">
 <span onclick="var p=this.parentElement.querySelector('.abstract-text'); p.style.display=p.style.display==='none'?'block':'none'" style="background:#e8a838; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; cursor:pointer; margin-right:4px;">Abstract</span>
 <a href="https://jov.arvojournals.org/article.aspx?articleid=2809410" style="background:#6ab040; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none; margin-right:4px;">Paper</a>
@@ -34,8 +34,30 @@ I study how the brain integrates noisy sensory information to make decisions, us
 ## Multivariate Brain Connectivity
 
 <div style="margin-bottom:2rem;">
+**Angular gyrus responses show joint statistical dependence with brain regions selective for different categories**
+<br>Using fMRI movie data and state-of-the-art multivariate statistical dependence based on artificial neural networks, we identified the angular gyrus encoding responses across face-, body-, artifact-, and scene-selective regions.
+<div style="margin-top:6px;">
+<span onclick="var p=this.parentElement.querySelector('.abstract-text'); p.style.display=p.style.display==='none'?'block':'none'" style="background:#e8a838; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; cursor:pointer; margin-right:4px;">Abstract</span>
+<a href="https://www.jneurosci.org/content/43/15/2756" style="background:#6ab040; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none; margin-right:4px;">Paper</a>
+<a href="https://github.com/sccnlab/PyMVPD" style="background:#457b9d; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none;">Code</a>
+<p class="abstract-text" style="display:none; margin-top:8px; font-size:0.9rem; color:gray;">Category selectivity is a fundamental principle of organization of perceptual brain regions. Human occipitotemporal cortex is subdivided into areas that respond preferentially to faces, bodies, artifacts, and scenes. However, observers need to combine information about objects from different categories to form a coherent understanding of the world. How is this multicategory information encoded in the brain? Studying the multivariate interactions between brain regions of male and female human subjects with fMRI and artificial neural networks, we found that the angular gyrus shows joint statistical dependence with multiple category-selective regions. Adjacent regions show effects for the combination of scenes and each other category, sug- gesting that scenes provide a context to combine information about the world. Additional analyses revealed a cortical map of areas that encode information across different subsets of categories, indicating that multicategory information is not encoded in a single centralized location, but in multiple distinct brain regions.</p>
+</div>
+</div>
+
+<div style="margin-bottom:2rem;">
+**Distinct Portions of Superior Temporal Sulcus Combine Auditory Representations with Different Visual Streams**
+<br>Both ventral and dorsal visual information is combined with auditory information but that distinct portions of posterior STS combine auditory information with visual information encoded in the two streams.
+<div style="margin-top:6px;">
+<span onclick="var p=this.parentElement.querySelector('.abstract-text'); p.style.display=p.style.display==='none'?'block':'none'" style="background:#e8a838; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; cursor:pointer; margin-right:4px;">Abstract</span>
+<a href="https://www.jneurosci.org/content/45/45/e1188242025" style="background:#6ab040; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none; margin-right:4px;">Paper</a>
+<a href="https://github.com/sccnlab/PyMVPD" style="background:#457b9d; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none;">Code</a>
+<p class="abstract-text" style="display:none; margin-top:8px; font-size:0.9rem; color:gray;">In humans, the superior temporal sulcus (STS) combines auditory and visual information. However, the extent to which it relies on visual information from the ventral or dorsal stream remains uncertain. To address this, we analyzed open-source functional mag- netic resonance imaging data collected from 15 participants (6 females and 9 males) as they watched a movie. We used artificial neural networks to investigate the relationship between multivariate response patterns in auditory cortex, the two visual streams, and the rest of the brain, finding that distinct portions of the STS combine information from the two visual streams with auditory information.</p>
+</div>
+</div>
+
+<div style="margin-bottom:2rem;">
 **PyMVPD: A toolbox for multivariate pattern dependence**
-<br>Your one sentence here.
+<br>A Python-based toolbox to model the multivariate interactions between brain regions using fMRI data.
 <div style="margin-top:6px;">
 <span onclick="var p=this.parentElement.querySelector('.abstract-text'); p.style.display=p.style.display==='none'?'block':'none'" style="background:#e8a838; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; cursor:pointer; margin-right:4px;">Abstract</span>
 <a href="https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2022.835772/full" style="background:#6ab040; color:white; border-radius:12px; padding:2px 10px; font-size:0.8rem; text-decoration:none; margin-right:4px;">Paper</a>
