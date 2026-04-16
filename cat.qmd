@@ -36,8 +36,8 @@ For collaboration, contact my purrsonal assistant, Mengting 🐾
 
 <div id="secret-album" style="display: none; text-align: center; margin-top: 20px; opacity: 0; transition: opacity 0.8s ease;">
   <p><em>You found Baobao's secret archive. Tell no one.</em> 🤫</p>
-  ![](images/baobao/Baobao_secret1.JPG){width=45%}
-  ![](images/baobao/Baobao_secret2.JPG){width=45%}
+  ![](images/Baobao/Baobao_secret1.jpg){width=45%}
+  ![](images/Baobao/Baobao_secret2.jpg){width=45%}
 </div>
 
 <div id="surprise" style="display: none; text-align: center; margin-top: 20px; opacity: 0; transition: opacity 0.8s ease;">
@@ -48,7 +48,7 @@ For collaboration, contact my purrsonal assistant, Mengting 🐾
     Honestly? Good taste.<br><br>
     <b>The world is mine</b> 👑
   </p>
-  ![](images/baobao/Baobao_topSecret.jpg){width=60%}
+  ![](images/Baobao/Baobao_topSecret.jpg){width=60%}
 </div>
 
 <script>
@@ -71,7 +71,7 @@ function toggleAlbum() {
         btn.textContent = '🐾 Psst... click me if you dare 🐾';
         clickCount = 0;
       }, 800);
-    }, 7000);
+    }, 17000);
     return;
   }
 
