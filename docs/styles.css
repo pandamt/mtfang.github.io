@@ -27,6 +27,10 @@
   .about-entity .about-contents * {
     text-align: left !important;
   }
+
+  a {
+    text-decoration: none !important;
+  }
   
   div.about-contents {
     text-align: left !important;
